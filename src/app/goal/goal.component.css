@@ -1,0 +1,22 @@
+.container{
+  background-color: violet;
+}
+.all-cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+  }
+  .area
+  {
+    margin-bottom: 2%;
+    background-color: aliceblue;
+    box-shadow: 2px 2px 3px 2px black;
+    margin: 30px; 
+  }
+  .area li{
+      padding: 20px;;
+  }
+  .area button{
+      margin: 20px;
+  }
